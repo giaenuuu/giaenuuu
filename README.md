@@ -23,11 +23,9 @@ I am currently an apprentice in switzerland ⛰️. I love javascript/typescript
 
 <br />
 
-### My Goals for 2022 🚀
-* Contribute more on open source project.
+### My Goals for 2023 🚀
 * Create some awesome projects
-* Learn flutter and c++.
-* Change my lifestyle in general.
+* Learn mobile dev and a more hardware near language (eg C++)
 
 <br />
 
