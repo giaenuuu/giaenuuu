@@ -3,8 +3,6 @@
 
 ## Hi, my name is Gian, 👋
 
-<a href="https://app.daily.dev/giaenuuu"><img align="right" width="375" alt="" src="https://github.com/xgiaenuuu/xgiaenuuu/blob/master/devcard.svg" /></a>
-
 I am currently an apprentice in switzerland ⛰️. I love javascript/typescript and I'm  generally more of a web dev 🌐. I like creating small projects just for fun in my freetime. When I'm not coding, then I'm probably out with my friends doing sports or drinking mate 🍵. 
 
 <br />
