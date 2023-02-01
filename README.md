@@ -41,15 +41,15 @@ I am currently an apprentice in switzerland ⛰️. I love javascript/typescript
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xgiaenuuu&show_icons=true&theme=dark)](https://github.com/xgiaenuuu/)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xgiaenuuu&langs_count=4"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giaenuuu&show_icons=true&theme=dark)](https://github.com/xgiaenuuu/)">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giaenuuu&langs_count=4"/>
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xgiaenuuu&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=giaenuuu&hide_border=true" />
 </details>
 
 <br />
