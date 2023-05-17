@@ -39,7 +39,7 @@ I am currently an apprentice in switzerland ⛰️. I love javascript/typescript
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giaenuuu&show_icons=true&theme=dark)](https://github.com/xgiaenuuu/)">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giaenuuu&show_icons=true&theme=dark&count_private=true)](https://github.com/xgiaenuuu/)">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giaenuuu&langs_count=4"/>
 </details>
 
