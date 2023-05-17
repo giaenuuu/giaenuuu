@@ -3,7 +3,7 @@
 
 ## Hi, my name is Gian, 👋
 
-I am currently an apprentice in switzerland ⛰️. I love javascript/typescript and I'm  generally more of a web dev 🌐. I like creating small projects just for fun in my freetime. When I'm not coding, then I'm probably out with my friends doing sports or drinking mate 🍵. 
+I am currently an apprentice in switzerland ⛰️. I love typescript and I'm  generally more of a web dev 🌐. I like creating small projects just for fun in my freetime. When I'm not coding, then I'm probably out with my friends doing sports or drinking mate 🍵. 
 
 <br />
 
