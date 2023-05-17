@@ -47,7 +47,7 @@ I am currently an apprentice in switzerland ⛰️. I love javascript/typescript
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=giaenuuu&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=giaenuuu&hide_border=true&count_private=true" />
 </details>
 
 <br />
