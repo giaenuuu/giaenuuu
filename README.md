@@ -11,16 +11,10 @@ Coding is my profession and my hobby. I love typescript and I am generally more 
 
 <br />
 
-### Coder Details
-
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-
+### Coder Details 
+  **⚡ Github Stats**
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giaenuuu&show_icons=true&theme=dark&count_private=true)](https://github.com/xgiaenuuu/)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giaenuuu&langs_count=4&count_private=true"/>
-</details>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giaenuuu&show_icons=true&theme=light&count_private=true)](https://github.com/xgiaenuuu/)">
 <br />
 
 ---
