@@ -5,24 +5,15 @@
 
 Coding is my profession and my hobby. I love typescript and I am generally more of a web dev 🌐. I like creating small projects just for fun. When I'm not coding, then I'm probably out with my friends doing sports or drinking mate 🍵. 
 
-<br />
-
 ---
 
-<br />
+### ⚡ Github Stats
+ 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=giaenuuu&show_icons=true&theme=light&count_private=true)](https://github.com/xgiaenuuu/)">
 
-### Coder Details 
-  **⚡ Github Stats**
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giaenuuu&show_icons=true&theme=light&count_private=true)](https://github.com/xgiaenuuu/)">
-<br />
+### 🌐 How to reach out
 
----
-
-<br />
-
-### If you like anything of my work
-<a href="https://www.buymeacoffee.com/giaenuuu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+If you need to reach out to me, you can contact me over e-mail. [hello@gruee.ch](mailto:hello@gruee.ch)
 
 
 
