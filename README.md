@@ -1,7 +1,7 @@
 
 <img src="./git_repo_header.png" style="width:100%;" >
 
-## Hi, my name is giaenuuu, 👋
+## Hi, my name is Gian, 👋
 
 Coding is my profession and my passion. When I'm not coding, then I'm probably out with my friends or wife. 
 
